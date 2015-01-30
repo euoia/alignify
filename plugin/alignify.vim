@@ -55,4 +55,3 @@ function! Alignify(...) range abort
         endif
     endwhile
 endfunction
-
